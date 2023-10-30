@@ -1,5 +1,3 @@
-Município;Óbitos_p/Residênc
- MUNICIPIO IGNORADO - SP;23
 350010 ADAMANTINA;40
 350020 ADOLFO;5
 350030 AGUAI;24
@@ -640,13 +638,13 @@ Município;Óbitos_p/Residênc
 355720 CHAVANTES;9
 355730 ESTIVA GERBI;3
 Total;36384
- Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM;
- Consulte o site da Secretaria Estadual de Saúde para mais informações.;
+ Fonte: MS/SVS/CGIAE - Sistema de InformaÃ§Ãµes sobre Mortalidade - SIM;
+ Consulte o site da Secretaria Estadual de SaÃºde para mais informaÃ§Ãµes.;
  Nota:;
  ;
- Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram;
- utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento;
-" ""Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011"".";
- No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.;
- No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.;
+ Em 2011, houve uma mudanÃ§a no conteÃºdo da DeclaraÃ§Ã£o de Ã“bito, com maior detalhamento das informaÃ§Ãµes coletadas. Para este ano, foram;
+ utilizados simultaneamente os dois formulÃ¡rios. Para mais detalhes sobre as mudanÃ§as ocorridas e os seus efeitos, veja o documento;
+" ""Sistema de InformaÃ§Ãµes sobre Mortalidade - SIM. ConsolidaÃ§Ã£o da base de dados de 2011"".";
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificaÃ§Ã£o 2017 foram atualizados, com alteraÃ§Ã£o das causas bÃ¡sicas de 2 registros e exclusÃ£o de 1 registro.;
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificaÃ§Ã£o 2019 foram atualizados, com alteraÃ§Ã£o das causas bÃ¡sicas de 4 registros e exclusÃ£o de 1 registro.;
  ;
